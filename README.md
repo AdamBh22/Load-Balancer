@@ -58,7 +58,7 @@ Setup and Execution
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/load-balancer.git
+git clone https://github.com/AdamBh22/Load-Balancer.git
 cd load-balancer
 
 Build the project using your preferred C++ compiler (e.g., g++ or clang++):
