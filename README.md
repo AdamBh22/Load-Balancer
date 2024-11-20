@@ -38,8 +38,8 @@ Before building the project, ensure you have the following dependencies installe
    ./runTests
 
 ## Keyword 
-   C++
-   CMake
-   GoogleTest
-   Unit Testing
-   OOP
+1. C++
+2. CMake
+3. GoogleTest
+4. Unit Testing
+5. OOP
