@@ -37,7 +37,7 @@ Before building the project, ensure you have the following dependencies installe
 ## Running Tests
    ./runTests
 
-## Keyword 
+## Keywords
 1. C++
 2. CMake
 3. GoogleTest
