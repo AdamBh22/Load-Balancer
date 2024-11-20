@@ -23,3 +23,23 @@ Before building the project, ensure you have the following dependencies installe
    ```bash
    git clone https://github.com/AdamBh22/Load-Balancer.git
    cd Load-Balancer
+2. Create a build directory:
+   ```bash
+   mkdir build
+   cd build
+3. Configure the project using CMake:
+   ```bash
+   cmake ..
+4. Build the project:
+   ```bash
+   make
+
+## Running Tests
+   ./runTests
+
+## Keyword 
+   C++
+   CMake
+   GoogleTest
+   Unit Testing
+   OOP
