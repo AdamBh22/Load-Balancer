@@ -9,7 +9,7 @@ Core Management:
 The Core class represents individual processing units capable of handling assigned tasks. The CoreManager class is responsible for maintaining and monitoring the pool of available cores.
 
 Load Balancing:
-The LoadBalancer class efficiently assigns tasks to cores based on predefined algorithms (e.g., round-robin or shortest queue), ensuring an even distribution of workload and preventing overloading of individual cores.
+The LoadBalancer class efficiently assigns tasks to cores, ensuring an even distribution of workload and preventing individual cores from overloading.
 
 Unit Testing with GoogleTest:
 The project integrates comprehensive unit tests to validate task scheduling, load balancing logic, and core management, ensuring robustness and maintainability.
@@ -32,7 +32,7 @@ Task queue
 Manages all tasks in the system, with functionalities to:
 
 Add tasks.
-Track task status (pending, in progress, completed).
+fetch the next task
 4. CoreManager
 Handles the pool of processing cores, with capabilities to:
 
